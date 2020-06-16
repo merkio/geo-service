@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 @AutoConfigureEmbeddedDatabase
-class ChargingStationServiceApplicationTests {
+class ChargingStationApplicationTests {
 
     @Test
     void contextLoads() {
